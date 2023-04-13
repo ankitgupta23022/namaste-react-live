@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+ Normal Native CSS
+ SCSS
+ inline CSS
+ Componet Libraries - Material UI, Bootstrap, Base UI, Ant, Chakra
+ CSS in JS - Styled Components, 
+       Tailwind CSS Framework
+          - CSS on the go(in the same file)
+          - reusability
+          - less bundle size
+          - Flexible UI (Customisations) -- Unlike Material UI, Bootstrap, Base UI, Ant, Chakra which give prebuilt components with limited customisations
+*/
